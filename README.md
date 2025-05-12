@@ -24,3 +24,16 @@
 </div>
 
 ###
+
+### 🧑‍💻 About Me
+
+- 🔧 I'm a passionate **Discord App Developer** and **Full Stack Developer**
+- 🌐 Based in Islamabad, Pakistan 🇵🇰
+- 💻 I specialize in building automation tools, custom APIs, and Discord-integrated platforms
+- 🎮 I create bots, interactive systems, and community tools for Discord servers
+- 📹 I run a YouTube channel sharing tutorials, dev tips, and Discord bot showcases
+- 🧠 Constantly learning and exploring new technologies to enhance my skill set
+- 🌱 Currently experimenting with advanced AI integrations and scalable cloud deployments
+
+###
+
