@@ -38,3 +38,4 @@
 
 ###
 
+![snake gif](https://github.com/ZarCodeX/ZarCodeX/blob/output/github-snake-dark.svg)
