@@ -1,41 +1,50 @@
-<h1 align="center">Hi, I'm ZarCodeX </h1>
-<p align="center">I'm Muhammad Abuzar</p>
+<!-- Profile Logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZarCodeX/ZarCodeX/refs/heads/main/images/ZarCodeX%20-%20Round.png" alt="ZarCodeX" width="150" />
+</p>
 
-###
+<h1 align="center">Hi, I'm ZarCodeX 👋</h1>
+<p align="center">aka Muhammad Abuzar — Developer • YouTuber • Tech Enthusiast</p>
+
+---
 
 <div align="center">
+  <!-- Badges -->
   <a href="https://discord.gg/t6gMSm2TrZ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-abuzar-b87808364/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@ZarCodeX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/zarcodex/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ZarCodeX/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ZarCodeX/count.svg?" alt="Visitor Counter" />
 </div>
 
-###
+---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔧 I'm a passionate **Discord App Developer** and **Full Stack Developer**
-- 🌐 Based in Islamabad, Pakistan 🇵🇰
-- 💻 I specialize in building automation tools, custom APIs, and Discord-integrated platforms
-- 🎮 I create bots, interactive systems, and community tools for Discord servers
-- 📹 I run a YouTube channel sharing tutorials, dev tips, and Discord bot showcases
-- 🧠 Constantly learning and exploring new technologies to enhance my skill set
-- 🌱 Currently experimenting with advanced AI integrations and scalable cloud deployments
+- 🔧 Passionate **Discord App Developer** & **Full Stack Developer**
+- 📍 Based in **Islamabad, Pakistan 🇵🇰**
+- 🧠 Always learning — exploring AI, automation, and scalable systems
+- 🧰 Specialize in:
+  - Discord bots, APIs & automation tools
+  - Full-stack web development (Node.js, React, MongoDB, etc.)
+  - Custom integrations & developer tools
+- 📹 [YouTube Channel](https://www.youtube.com/@ZarCodeX) for Dev Tips, Discord Bot Showcases & Tutorials
 
-###
+---
 
-![snake gif](https://github.com/ZarCodeX/ZarCodeX/blob/output/github-snake-dark.svg)
+## 🐍 GitHub Activity Snake
+
+![Snake Animation](https://github.com/ZarCodeX/ZarCodeX/blob/output/github-snake-dark.svg)
