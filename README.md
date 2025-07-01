@@ -49,7 +49,7 @@
 ## 🟢 Discord Account Activity
 
 <div align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1271229269586087956?idleMessage=Offline&hideActivity=true&theme=dark&bg=00332e&borderRadius=20px)](https://discord.com/users/1271229269586087956)
+  <a href="https://discord.com/users/1271229269586087956"><img src="https://lanyard.cnrad.dev/api/1271229269586087956?idleMessage=Offline&hideActivity=true&theme=dark&bg=00332e&borderRadius=20px" /></a>
 </div>
 
 ---
