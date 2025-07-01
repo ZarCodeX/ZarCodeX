@@ -73,26 +73,5 @@
 
 <!-- Footer -->
 <div align="center" style="margin-top:40px; color:#aaa; font-size:0.9rem;">
-  <p>Made with ❤️ by 2023 ZarCodeX</p>
+  <p>Made with ❤️ by ZarCodeX</p>
 </div>
-
-<style>
-  /* Global styles */
-  body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background:#000 !important;
-    color:#eee;
-  }
-  
-  /* Link hover effects */
-  a:hover {
-    text-decoration: underline !important;
-  }
-  
-  /* Responsive design */
-  @media (max-width: 768px) {
-    img {
-      max-width: 100%;
-    }
-  }
-</style>
