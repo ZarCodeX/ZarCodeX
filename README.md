@@ -27,6 +27,7 @@
 ---
 
 <div align="center">
+  <h3>👁️ Profile Views</h3>
   <img src="https://profile-counter.glitch.me/ZarCodeX/count.svg?" alt="Visitor Counter" />
 </div>
 
@@ -42,6 +43,16 @@
   - Full-stack web development (Node.js, React, MongoDB, etc.)
   - Custom integrations & developer tools
 - 📹 [YouTube Channel](https://www.youtube.com/@ZarCodeX) for Dev Tips, Discord Bot Showcases & Tutorials
+
+---
+
+## 🟢 Discord Account Activity
+
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/1271229269586087956?bg=1e1e2e&borderRadius=15px&idleMessage=Not%20currently%20active%20on%20Discord" alt="ZarCodeX's Discord Presence" />
+</div>
+
+> Real-time status of my Discord account powered by [Lanyard](https://lanyard.cnrad.dev)
 
 ---
 
