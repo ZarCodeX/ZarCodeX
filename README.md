@@ -49,10 +49,8 @@
 ## 🟢 Discord Account Activity
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1271229269586087956?bg=1e1e2e&borderRadius=15px&idleMessage=Not%20currently%20active%20on%20Discord" alt="ZarCodeX's Discord Presence" />
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1271229269586087956?idleMessage=Offline&hideActivity=true&theme=dark&bg=00332e&borderRadius=20px)](https://discord.com/users/1271229269586087956)
 </div>
-
-> Real-time status of my Discord account powered by [Lanyard](https://lanyard.cnrad.dev)
 
 ---
 
