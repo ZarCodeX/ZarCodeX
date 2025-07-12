@@ -20,12 +20,6 @@
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="Instagram" />
     </a>
   </div>
-
-  <!-- Profile Views -->
-  <div style="background:#003a32; padding:15px; border-radius:10px; display:inline-block; margin:20px auto;">
-    <h3 style="color:#00fff5; margin:0;">👁️ Profile Views</h3>
-    <img src="https://profile-counter.glitch.me/ZarCodeX/count.svg?" alt="Visitor Counter" />
-  </div>
 </div>
 
 ---
