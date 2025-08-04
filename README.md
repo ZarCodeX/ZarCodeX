@@ -64,7 +64,6 @@
 </div>
 
 ---
-
 <!-- Footer -->
 <div align="center" style="margin-top:40px; color:#aaa; font-size:0.9rem;">
   <p>Made with ❤️ by ZarCodeX</p>
