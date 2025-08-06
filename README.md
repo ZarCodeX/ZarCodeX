@@ -31,7 +31,6 @@
   <ul style="color:#eee; margin-top:20px; font-size:1.1rem;">
     <li>🔧 Passionate <strong style="color:#00fff5;">Discord App Developer</strong> & <strong style="color:#00fff5;">Full Stack Developer</strong></li>
     <li>📍 Based in <strong style="color:#00fff5;">Islamabad, Pakistan 🇵🇰</strong></li>
-    <li>🧠 Always learning — exploring AI, automation, and scalable systems</li>
     <li>🧰 Specialize in:
       <ul>
         <li>Discord bots, APIs & automation tools</li>
