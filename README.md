@@ -7,7 +7,7 @@
 
   <!-- Badges -->
   <div style="margin:25px 0;">
-    <a href="https://discord.gg/t6gMSm2TrZ" target="_blank">
+    <a href=" https://discord.gg/6YVmxA4Qsf" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord" />
     </a>
     <a href="https://www.linkedin.com/in/muhammad-abuzar-b87808364/" target="_blank">
