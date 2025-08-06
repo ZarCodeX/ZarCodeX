@@ -47,7 +47,6 @@
 
 <!-- Discord Activity -->
 <div align="center" style="margin:40px 0;">
-  <h2 style="color:#00fff5; display:inline-block; border-bottom:2px solid #00fff5; padding-bottom:8px;">🟢 Discord Account Activity</h2>
   <br><br>
   <a href="https://discord.com/users/1271229269586087956">
     <img src="https://lanyard.cnrad.dev/api/1271229269586087956?theme=dark&bg=003a32&borderRadius=20px&idleMessage=Developing%20Awesome%20Bots" />
