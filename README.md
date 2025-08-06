@@ -58,13 +58,6 @@
 
 <!-- GitHub Snake -->
 <div align="center" style="margin:40px 0;">
-  <h2 style="color:#00fff5; display:inline-block; border-bottom:2px solid #00fff5; padding-bottom:8px;">🐍 GitHub Activity Snake</h2>
   <br><br>
   <img src="https://github.com/ZarCodeX/ZarCodeX/blob/output/github-snake-dark.svg" alt="GitHub Activity Snake" />
-</div>
-
----
-<!-- Footer -->
-<div align="center" style="margin-top:40px; color:#aaa; font-size:0.9rem;">
-  <p>Made with ❤️ by ZarCodeX</p>
 </div>
