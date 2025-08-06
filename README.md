@@ -10,13 +10,10 @@
     <a href=" https://discord.gg/6YVmxA4Qsf" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord" />
     </a>
-    <a href="https://www.linkedin.com/in/muhammad-abuzar-b87808364/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-    </a>
     <a href="https://www.youtube.com/@ZarCodeX" target="_blank">
       <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" alt="YouTube" />
     </a>
-    <a href="https://www.instagram.com/zarcodex/" target="_blank">
+    <a href="https://www.instagram.com/ZarCodeX/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="Instagram" />
     </a>
   </div>
