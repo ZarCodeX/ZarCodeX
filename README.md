@@ -58,14 +58,12 @@
     <a href="https://discord.com/users/1271229269586087956"><img src="https://lanyard.cnrad.dev/api/1271229269586087956?bg=001511&borderRadius=40px&showDisplayName=true&hideBadges=true&hideActivity=true&hideTag=true&theme=dark&hideDecoration=true" /></a>
 </div>
 
----
-
 <h3 align="left">My Stats :</h3>
 
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZarCodeX&theme=highcontrast&border_radius=10&border=00D7EB&background=45%2C007472%2C000000&stroke=00EBE6&ring=00EBA0&fire=00C8EB&currStreakNum=00E5EB&sideNums=00BCEB&currStreakLabel=00E7EB&sideLabels=00E7EB&dates=00D0EB&hide_longest_streak=true" alt="GitHub Streak" / </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZarCodeX&theme=highcontrast&border_radius=10&border=00D7EB&background=45%2C007472%2C000000&stroke=00EBE6&ring=00EBA0&fire=00C8EB&currStreakNum=00E5EB&sideNums=00BCEB&currStreakLabel=00E7EB&sideLabels=00E7EB&dates=00D0EB" alt="GitHub Streak" /></a>
 </div>
 
 <!-- GitHub Snake -->
