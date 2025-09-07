@@ -10,14 +10,10 @@
   <a href="https://github.com/ZarCodeX"><img src="https://visitor-badge.laobi.icu/badge?page_id=ZarCodeX"/></a>
 </div>
 
----
-
 <div align="center" style="margin:40px 0;">
   <br><br>
    <a href="https://discord.gg/6YVmxA4Qsf"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=00E6DC&width=435&lines=Hi%2C+I'm+ZarCodeX+%F0%9F%91%8B;aka+Muhammad+Abuzar;Passionate+FullStack+Dev;Based+in+Islamabad+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" /></a>
 </div>
-
----
 
 <!-- About Section -->
 <div style="background:linear-gradient(to right, #003a32, #001f1b); padding:25px; border-radius:15px; border-left:4px solid #00fff5;">
@@ -36,8 +32,6 @@
     <li>📹 <a href="https://www.youtube.com/@ZarCodeX" style="color:#00fff5; text-decoration:none;">YouTube Channel</a> for Dev Tips, Discord Bot Showcases & Tutorials</li>
   </ul>
 </div>
-
----
 
 <!-- Discord Activity -->
 <div align="center" style="margin:40px 0;">
