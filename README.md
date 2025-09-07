@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZarCodeX"  />
+  <a href="https://https://github.com/ZarCodeX"><img src="https://visitor-badge.laobi.icu/badge?page_id=ZarCodeX"/></a>
 </div>
 
 ---
