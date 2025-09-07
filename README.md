@@ -44,9 +44,7 @@
 <!-- Discord Activity -->
 <div align="center" style="margin:40px 0;">
   <br><br>
-  <a href="https://discord.com/users/1271229269586087956">
-    <img src="[https://lanyard.cnrad.dev/api/1271229269586087956?theme=dark&bg=003a32&borderRadius=20px&idleMessage=Developing%20Awesome%20Bots](https://lanyard.cnrad.dev/api/1271229269586087956?bg=001511&borderRadius=40px&showDisplayName=true&hideBadges=true&hideActivity=true&hideTag=true&theme=dark&hideDecoration=true)](https://discord.com/users/1271229269586087956)" />
-  </a>
+    <a href="https://discord.com/users/1271229269586087956"><img src="https://lanyard.cnrad.dev/api/1271229269586087956?bg=001511&borderRadius=40px&showDisplayName=true&hideBadges=true&hideActivity=true&hideTag=true&theme=dark&hideDecoration=true" /></a>
 </div>
 
 ---
