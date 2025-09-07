@@ -4,23 +4,10 @@
   
   <h1 style="color:#00fff5; font-size:2.5rem; margin:15px 0 5px;">Hi, I'm ZarCodeX 👋</h1>
   <p style="color:#aaa; font-size:1.2rem;">aka Muhammad Abuzar - Developer • YouTuber • Tech Enthusiast</p>
-
-  <!-- Badges -->
-  <div style="margin:25px 0;">
-    <a href=" https://discord.gg/6YVmxA4Qsf" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord" />
-    </a>
-    <a href="https://www.youtube.com/@ZarCodeX" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" alt="YouTube" />
-    </a>
-    <a href="https://www.instagram.com/ZarCodeX/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="Instagram" />
-    </a>
-  </div>
 </div>
 
 <div align="center">
-  <a href="https://https://github.com/ZarCodeX"><img src="https://visitor-badge.laobi.icu/badge?page_id=ZarCodeX"/></a>
+  <a href="https://github.com/ZarCodeX"><img src="https://visitor-badge.laobi.icu/badge?page_id=ZarCodeX"/></a>
 </div>
 
 ---
