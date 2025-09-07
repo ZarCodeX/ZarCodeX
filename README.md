@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZarCodeX&theme=highcontrast&border_radius=10&border=00D7EB&background=45%2C007472%2C000000&stroke=00EBE6&ring=00EBA0&fire=00C8EB&currStreakNum=00E5EB&sideNums=00BCEB&currStreakLabel=00E7EB&sideLabels=00E7EB&dates=00D0EB&hide_longest_streak=true" alt="GitHub Streak" / </a>
 </div>
 
 <!-- GitHub Snake -->
