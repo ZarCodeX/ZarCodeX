@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/ZarCodeX/ZarCodeX/refs/heads/main/images/ZarCodeX%20-%20Round.png" alt="ZarCodeX" width="150" style="border-radius:50%; border:3px solid #00fff5; box-shadow:0 0 20px rgba(0,255,245,0.3);" />
   
   <h1 style="color:#00fff5; font-size:2.5rem; margin:15px 0 5px;">Hi, I'm ZarCodeX 👋</h1>
-  <p style="color:#aaa; font-size:1.2rem;">aka Muhammad Abuzar — Developer • YouTuber • Tech Enthusiast</p>
+  <p style="color:#aaa; font-size:1.2rem;">aka Muhammad Abuzar - Developer • YouTuber • Tech Enthusiast</p>
 
   <!-- Badges -->
   <div style="margin:25px 0;">
