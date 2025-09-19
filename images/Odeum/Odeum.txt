@@ -1,0 +1,5 @@
+Odeum: The stage for your sound.
+
+This tagline uses the name's meaning (a musical hall) to suggest that your Discord server is the perfect "stage" for the bot to play its music. It's concise and connects directly to the core function.
+
+Preferred Color: #c840d8
